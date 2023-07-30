@@ -1,0 +1,18 @@
+{
+  "epoch": 57800,
+  "orbit_axis": 2.8043,
+  "orbit_eccentricity": 0.6672,
+  "orbit_inclination": 4.7249,
+  "perihelion_argument": 234.126,
+  "node_longitude": 183.5747,
+  "mean_anomoly": 349.5302,
+  "perihelion_distance": 0.9332,
+  "aphelion_distance": 4.68,
+  "orbital_period": 4.7,
+  "min_orbit_intersection_distance": 0.0288,
+  "orbital_reference": 16,
+  "asteroid_magnitude": 20.4,
+  "classification_apohele": false,
+  "classification_apollo": true,
+  "classification_aten": false
+}

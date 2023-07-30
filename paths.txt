@@ -1,0 +1,2 @@
+/home/compromyse/data/codeday/cosmic_threat_identifier/data_true.json
+/home/compromyse/data/codeday/cosmic_threat_identifier/data_false.json
